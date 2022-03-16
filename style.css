@@ -1,0 +1,47 @@
+label{
+    color: #ffffff;
+}
+
+.legend {
+    color:white;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+.error {
+    color:red;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+   
+}
+.fieldset{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.bg-container {
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    background-color: palegreen;
+    width:400px;
+    height:400px;
+    border-radius:10px;
+
+}
+
+.input-container {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left:20px;
+}
+.button-1 {
+    
+    margin: 20px;
+    
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
